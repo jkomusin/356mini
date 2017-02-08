@@ -1,0 +1,312 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BAUD	.\print.h	12;"	d
+BV	.\common_inc.h	13;"	d
+COMMON_INC_H	.\common_inc.h	2;"	d
+COUNT_UP	.\keysta.c	34;"	d	file:
+CYCLES_PER_US	.\global.h	41;"	d
+DEBUG_PRINT	.\print.h	15;"	d
+DEBUG_PRINT	.\print.h	30;"	d
+END_MAKE	.\keymain.c	52;"	d	file:
+FLA_CLOCK_HIGH	.\keysta.h	70;"	d
+FLA_RX_BAD	.\keysta.h	71;"	d
+FLA_RX_BYTE	.\keysta.h	72;"	d
+FLA_TX_BYTE	.\keysta.h	73;"	d
+FLA_TX_ERR	.\keysta.h	76;"	d
+FLA_TX_OK	.\keysta.h	74;"	d
+F_CPU	.\global.h	33;"	d
+GLOBAL_H	.\global.h	22;"	d
+IDLE_END	.\keysta.c	/^	IDLE_OK_TO_TX, IDLE_END,$/;"	e	enum:enum_state	file:
+IDLE_OK_TO_TX	.\keysta.c	/^	IDLE_OK_TO_TX, IDLE_END,$/;"	e	enum:enum_state	file:
+IDLE_START	.\keysta.c	/^enum enum_state { IDLE_START = 0, IDLE_WAIT_REL, $/;"	e	enum:enum_state	file:
+IDLE_WAIT_REL	.\keysta.c	/^enum enum_state { IDLE_START = 0, IDLE_WAIT_REL, $/;"	e	enum:enum_state	file:
+KEYBD_EXTERN	.\keymain.c	5;"	d	file:
+KEYB_CLOCK_BIT	.\keysta.h	40;"	d
+KEYB_CLOCK_DDR	.\keysta.h	37;"	d
+KEYB_CLOCK_PIN	.\keysta.h	39;"	d
+KEYB_CLOCK_PINS	.\keysta.h	38;"	d
+KEYB_CLOCK_PORT	.\keysta.h	36;"	d
+KEYB_DATA_BIT	.\keysta.h	46;"	d
+KEYB_DATA_DDR	.\keysta.h	43;"	d
+KEYB_DATA_PIN	.\keysta.h	45;"	d
+KEYB_DATA_PINS	.\keysta.h	44;"	d
+KEYB_DATA_PORT	.\keysta.h	42;"	d
+KEYMAP_H	.\keymap.h	2;"	d
+KEYSTA_H	.\keysta.h	4;"	d
+KEY_0	.\keymap.h	/^	KEY_0,$/;"	e	enum:__anon1
+KEY_1	.\keymap.h	/^	KEY_1,$/;"	e	enum:__anon1
+KEY_2	.\keymap.h	/^	KEY_2,$/;"	e	enum:__anon1
+KEY_3	.\keymap.h	/^	KEY_3,$/;"	e	enum:__anon1
+KEY_4	.\keymap.h	/^	KEY_4,$/;"	e	enum:__anon1
+KEY_5	.\keymap.h	/^	KEY_5,$/;"	e	enum:__anon1
+KEY_6	.\keymap.h	/^	KEY_6,$/;"	e	enum:__anon1
+KEY_7	.\keymap.h	/^	KEY_7,$/;"	e	enum:__anon1
+KEY_8	.\keymap.h	/^	KEY_8,$/;"	e	enum:__anon1
+KEY_9	.\keymap.h	/^	KEY_9, $/;"	e	enum:__anon1
+KEY_A	.\keymap.h	/^	KEY_A,$/;"	e	enum:__anon1
+KEY_APPS	.\keymap.h	/^	KEY_APPS,$/;"	e	enum:__anon1
+KEY_B	.\keymap.h	/^	KEY_B,$/;"	e	enum:__anon1
+KEY_BKSLASH	.\keymap.h	/^	KEY_BKSLASH,$/;"	e	enum:__anon1
+KEY_BKSP	.\keymap.h	/^	KEY_BKSP,$/;"	e	enum:__anon1
+KEY_C	.\keymap.h	/^	KEY_C,$/;"	e	enum:__anon1
+KEY_CALC	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_CAPS	.\keymap.h	/^	KEY_CAPS,$/;"	e	enum:__anon1
+KEY_COLON	.\keymap.h	/^	KEY_COLON,$/;"	e	enum:__anon1
+KEY_COMMA	.\keymap.h	/^	KEY_COMMA,$/;"	e	enum:__anon1
+KEY_D	.\keymap.h	/^	KEY_D,$/;"	e	enum:__anon1
+KEY_DEL	.\keymap.h	/^	KEY_DEL,$/;"	e	enum:__anon1
+KEY_DOT	.\keymap.h	/^	KEY_DOT,$/;"	e	enum:__anon1
+KEY_DOWN	.\keymap.h	/^	KEY_DOWN,$/;"	e	enum:__anon1
+KEY_E	.\keymap.h	/^	KEY_E,$/;"	e	enum:__anon1
+KEY_EJECT	.\keymap.h	/^ 	KEY_MINIMIZE,	KEY_EJECT$/;"	e	enum:__anon1
+KEY_EMAIL	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_END	.\keymap.h	/^	KEY_END,$/;"	e	enum:__anon1
+KEY_ENTER	.\keymap.h	/^	KEY_ENTER,$/;"	e	enum:__anon1
+KEY_EQUAL	.\keymap.h	/^	KEY_EQUAL,$/;"	e	enum:__anon1
+KEY_ESC	.\keymap.h	/^	KEY_ESC,$/;"	e	enum:__anon1
+KEY_F	.\keymap.h	/^	KEY_F,$/;"	e	enum:__anon1
+KEY_F1	.\keymap.h	/^	KEY_F1,$/;"	e	enum:__anon1
+KEY_F10	.\keymap.h	/^	KEY_F10,$/;"	e	enum:__anon1
+KEY_F11	.\keymap.h	/^	KEY_F11,$/;"	e	enum:__anon1
+KEY_F12	.\keymap.h	/^	KEY_F12,$/;"	e	enum:__anon1
+KEY_F2	.\keymap.h	/^	KEY_F2,$/;"	e	enum:__anon1
+KEY_F3	.\keymap.h	/^	KEY_F3,$/;"	e	enum:__anon1
+KEY_F4	.\keymap.h	/^	KEY_F4,$/;"	e	enum:__anon1
+KEY_F5	.\keymap.h	/^	KEY_F5,$/;"	e	enum:__anon1
+KEY_F6	.\keymap.h	/^	KEY_F6,$/;"	e	enum:__anon1
+KEY_F7	.\keymap.h	/^	KEY_F7,$/;"	e	enum:__anon1
+KEY_F8	.\keymap.h	/^	KEY_F8,$/;"	e	enum:__anon1
+KEY_F9	.\keymap.h	/^	KEY_F9,$/;"	e	enum:__anon1
+KEY_FN	.\keymap.h	9;"	d
+KEY_G	.\keymap.h	/^	KEY_G,$/;"	e	enum:__anon1
+KEY_H	.\keymap.h	/^	KEY_H,$/;"	e	enum:__anon1
+KEY_HANGLE	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_HANJA	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_HASH	.\keymap.h	/^	KEY_HASH,$/;"	e	enum:__anon1
+KEY_HOME	.\keymap.h	/^	KEY_HOME,$/;"	e	enum:__anon1
+KEY_I	.\keymap.h	/^	KEY_I,$/;"	e	enum:__anon1
+KEY_INSERT	.\keymap.h	/^	KEY_INSERT,$/;"	e	enum:__anon1
+KEY_J	.\keymap.h	/^	KEY_J,$/;"	e	enum:__anon1
+KEY_K	.\keymap.h	/^	KEY_K,$/;"	e	enum:__anon1
+KEY_KP_0	.\keymap.h	/^	KEY_KP_0,$/;"	e	enum:__anon1
+KEY_KP_1	.\keymap.h	/^	KEY_KP_1,$/;"	e	enum:__anon1
+KEY_KP_2	.\keymap.h	/^	KEY_KP_2,$/;"	e	enum:__anon1
+KEY_KP_3	.\keymap.h	/^	KEY_KP_3,$/;"	e	enum:__anon1
+KEY_KP_4	.\keymap.h	/^	KEY_KP_4,$/;"	e	enum:__anon1
+KEY_KP_5	.\keymap.h	/^	KEY_KP_5,$/;"	e	enum:__anon1
+KEY_KP_6	.\keymap.h	/^	KEY_KP_6,$/;"	e	enum:__anon1
+KEY_KP_7	.\keymap.h	/^	KEY_KP_7,$/;"	e	enum:__anon1
+KEY_KP_8	.\keymap.h	/^	KEY_KP_8,$/;"	e	enum:__anon1
+KEY_KP_9	.\keymap.h	/^	KEY_KP_9,$/;"	e	enum:__anon1
+KEY_KP_AST	.\keymap.h	/^	KEY_KP_AST,$/;"	e	enum:__anon1
+KEY_KP_DOT	.\keymap.h	/^	KEY_KP_DOT,$/;"	e	enum:__anon1
+KEY_KP_ENTER	.\keymap.h	/^	KEY_KP_ENTER,$/;"	e	enum:__anon1
+KEY_KP_MINUS	.\keymap.h	/^	KEY_KP_MINUS,$/;"	e	enum:__anon1
+KEY_KP_PLUS	.\keymap.h	/^	KEY_KP_PLUS,$/;"	e	enum:__anon1
+KEY_KP_SLASH	.\keymap.h	/^	KEY_KP_SLASH,$/;"	e	enum:__anon1
+KEY_L	.\keymap.h	/^	KEY_L,$/;"	e	enum:__anon1
+KEY_LALT	.\keymap.h	/^	KEY_LALT,$/;"	e	enum:__anon1
+KEY_LBR	.\keymap.h	/^	KEY_LBR,$/;"	e	enum:__anon1
+KEY_LCTRL	.\keymap.h	/^	KEY_LCTRL,$/;"	e	enum:__anon1
+KEY_LEFT	.\keymap.h	/^	KEY_LEFT,$/;"	e	enum:__anon1
+KEY_LGUI	.\keymap.h	/^	KEY_LGUI,$/;"	e	enum:__anon1
+KEY_LSHIFT	.\keymap.h	/^	KEY_LSHIFT,$/;"	e	enum:__anon1
+KEY_M	.\keymap.h	/^	KEY_M,$/;"	e	enum:__anon1
+KEY_MEDIA	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_MINIMIZE	.\keymap.h	/^ 	KEY_MINIMIZE,	KEY_EJECT$/;"	e	enum:__anon1
+KEY_MINUS	.\keymap.h	/^	KEY_MINUS,$/;"	e	enum:__anon1
+KEY_MUTE	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_MYCOM	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_N	.\keymap.h	/^	KEY_N,$/;"	e	enum:__anon1
+KEY_NEXT_TRK	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_NONE	.\keymap.h	/^	KEY_NONE=0,$/;"	e	enum:__anon1
+KEY_NUMLOCK	.\keymap.h	/^	KEY_NUMLOCK,$/;"	e	enum:__anon1
+KEY_O	.\keymap.h	/^	KEY_O,$/;"	e	enum:__anon1
+KEY_P	.\keymap.h	/^	KEY_P,$/;"	e	enum:__anon1
+KEY_PAUSE	.\keymap.h	/^	KEY_PAUSE,$/;"	e	enum:__anon1
+KEY_PGDN	.\keymap.h	/^	KEY_PGDN,$/;"	e	enum:__anon1
+KEY_PGUP	.\keymap.h	/^	KEY_PGUP,$/;"	e	enum:__anon1
+KEY_PLAY	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_POWER	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_PREV_TRK	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_PRNSCR	.\keymap.h	/^	KEY_PRNSCR,$/;"	e	enum:__anon1
+KEY_Q	.\keymap.h	/^	KEY_Q,$/;"	e	enum:__anon1
+KEY_QUOTE	.\keymap.h	/^	KEY_QUOTE,$/;"	e	enum:__anon1
+KEY_R	.\keymap.h	/^	KEY_R,$/;"	e	enum:__anon1
+KEY_RALT	.\keymap.h	/^	KEY_RALT,$/;"	e	enum:__anon1
+KEY_RBR	.\keymap.h	/^	KEY_RBR,$/;"	e	enum:__anon1
+KEY_RCTRL	.\keymap.h	/^	KEY_RCTRL,$/;"	e	enum:__anon1
+KEY_REC	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_REWIND	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_RGUI	.\keymap.h	/^	KEY_RGUI,$/;"	e	enum:__anon1
+KEY_RIGHT	.\keymap.h	/^	KEY_RIGHT,$/;"	e	enum:__anon1
+KEY_RSHIFT	.\keymap.h	/^	KEY_RSHIFT,$/;"	e	enum:__anon1
+KEY_S	.\keymap.h	/^	KEY_S,$/;"	e	enum:__anon1
+KEY_SCREENSAVE	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_SCRLCK	.\keymap.h	/^	KEY_SCRLCK,$/;"	e	enum:__anon1
+KEY_SLASH	.\keymap.h	/^	KEY_SLASH,$/;"	e	enum:__anon1
+KEY_SLEEP	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_SPACE	.\keymap.h	/^	KEY_SPACE,$/;"	e	enum:__anon1
+KEY_STOP	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_T	.\keymap.h	/^	KEY_T,$/;"	e	enum:__anon1
+KEY_TAB	.\keymap.h	/^	KEY_TAB,$/;"	e	enum:__anon1
+KEY_U	.\keymap.h	/^	KEY_U,$/;"	e	enum:__anon1
+KEY_UP	.\keymap.h	/^	KEY_UP,$/;"	e	enum:__anon1
+KEY_V	.\keymap.h	/^	KEY_V,$/;"	e	enum:__anon1
+KEY_VOL_DOWN	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_VOL_UP	.\keymap.h	/^ 	KEY_PLAY,	KEY_MUTE,	KEY_VOL_UP,	KEY_VOL_DOWN,	KEY_MEDIA,	KEY_CALC,	KEY_MYCOM,	KEY_SCREENSAVE,	KEY_REC,	KEY_REWIND,$/;"	e	enum:__anon1
+KEY_W	.\keymap.h	/^	KEY_W,$/;"	e	enum:__anon1
+KEY_WAKE	.\keymap.h	/^	KEY_HANJA,	KEY_HANGLE,	KEY_POWER,	KEY_SLEEP,	KEY_WAKE,	KEY_EMAIL,$/;"	e	enum:__anon1
+KEY_WWW_BACK	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_FAVORITE	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_FORWARD	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_HOME	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_REFRESH	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_SEARCH	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_WWW_STOP	.\keymap.h	/^ 	KEY_WWW_SEARCH, KEY_WWW_HOME,	KEY_WWW_BACK,	KEY_WWW_FORWARD,	KEY_WWW_STOP,	KEY_WWW_REFRESH,	KEY_WWW_FAVORITE,	KEY_NEXT_TRK,	KEY_PREV_TRK,	KEY_STOP,$/;"	e	enum:__anon1
+KEY_X	.\keymap.h	/^	KEY_X,$/;"	e	enum:__anon1
+KEY_Y	.\keymap.h	/^	KEY_Y,$/;"	e	enum:__anon1
+KEY_Z	.\keymap.h	/^	KEY_Z,$/;"	e	enum:__anon1
+KFLA	.\keymap.h	/^static uint8_t KFLA[NUM_KEY];$/;"	v
+KFLA_EXTEND	.\keymap.h	158;"	d
+KFLA_MAKEONLY	.\keymap.h	160;"	d
+KFLA_MAKE_BREAK	.\keymap.h	161;"	d
+KFLA_PROC_SHIFT	.\keymap.h	162;"	d
+KFLA_SPECIAL	.\keymap.h	159;"	d
+LED_CAP_DDR	.\keysta.h	21;"	d
+LED_CAP_PIN	.\keysta.h	22;"	d
+LED_CAP_PORT	.\keysta.h	20;"	d
+LED_NUM_DDR	.\keysta.h	17;"	d
+LED_NUM_PIN	.\keysta.h	18;"	d
+LED_NUM_PORT	.\keysta.h	16;"	d
+LED_SCR_DDR	.\keysta.h	25;"	d
+LED_SCR_PIN	.\keysta.h	26;"	d
+LED_SCR_PORT	.\keysta.h	24;"	d
+MATRIX	.\keymain.c	/^static uint8_t MATRIX[17];$/;"	v	file:
+M_LALT	.\keymain.c	56;"	d	file:
+M_LCTRL	.\keymain.c	58;"	d	file:
+M_LGUI	.\keymain.c	59;"	d	file:
+M_LSHIFT	.\keymain.c	57;"	d	file:
+M_RALT	.\keymain.c	60;"	d	file:
+M_RCTRL	.\keymain.c	62;"	d	file:
+M_RGUI	.\keymain.c	63;"	d	file:
+M_RSHIFT	.\keymain.c	61;"	d	file:
+NO_REPEAT	.\keymain.c	53;"	d	file:
+NUM_KEY	.\keymap.h	7;"	d
+PRINT	.\print.h	2;"	d
+QUEUE	.\keymain.c	/^static uint8_t QUEUE[QUEUE_SIZE];$/;"	v	file:
+QUEUE_SIZE	.\keymain.c	66;"	d	file:
+RX_DATA0	.\keysta.c	/^	RX_START = IDLE_END+10, RX_RELCLK, RX_DATA0,$/;"	e	enum:enum_state	file:
+RX_DATA1	.\keysta.c	/^	RX_DATA1, RX_DATA2, RX_DATA3, RX_DATA4,$/;"	e	enum:enum_state	file:
+RX_DATA2	.\keysta.c	/^	RX_DATA1, RX_DATA2, RX_DATA3, RX_DATA4,$/;"	e	enum:enum_state	file:
+RX_DATA3	.\keysta.c	/^	RX_DATA1, RX_DATA2, RX_DATA3, RX_DATA4,$/;"	e	enum:enum_state	file:
+RX_DATA4	.\keysta.c	/^	RX_DATA1, RX_DATA2, RX_DATA3, RX_DATA4,$/;"	e	enum:enum_state	file:
+RX_DATA5	.\keysta.c	/^	RX_DATA5, RX_DATA6, RX_DATA7,$/;"	e	enum:enum_state	file:
+RX_DATA6	.\keysta.c	/^	RX_DATA5, RX_DATA6, RX_DATA7,$/;"	e	enum:enum_state	file:
+RX_DATA7	.\keysta.c	/^	RX_DATA5, RX_DATA6, RX_DATA7,$/;"	e	enum:enum_state	file:
+RX_END	.\keysta.c	/^	RX_PARITY, RX_STOP, RX_SENT_ACK, RX_END,$/;"	e	enum:enum_state	file:
+RX_PARITY	.\keysta.c	/^	RX_PARITY, RX_STOP, RX_SENT_ACK, RX_END,$/;"	e	enum:enum_state	file:
+RX_RELCLK	.\keysta.c	/^	RX_START = IDLE_END+10, RX_RELCLK, RX_DATA0,$/;"	e	enum:enum_state	file:
+RX_SENT_ACK	.\keysta.c	/^	RX_PARITY, RX_STOP, RX_SENT_ACK, RX_END,$/;"	e	enum:enum_state	file:
+RX_START	.\keysta.c	/^	RX_START = IDLE_END+10, RX_RELCLK, RX_DATA0,$/;"	e	enum:enum_state	file:
+RX_STOP	.\keysta.c	/^	RX_PARITY, RX_STOP, RX_SENT_ACK, RX_END,$/;"	e	enum:enum_state	file:
+SC_0	.\keymain.c	39;"	d	file:
+SC_1	.\keymain.c	40;"	d	file:
+SC_2	.\keymain.c	41;"	d	file:
+SC_3	.\keymain.c	42;"	d	file:
+SC_4	.\keymain.c	43;"	d	file:
+SC_5	.\keymain.c	44;"	d	file:
+SC_6	.\keymain.c	45;"	d	file:
+SC_7	.\keymain.c	46;"	d	file:
+SC_8	.\keymain.c	47;"	d	file:
+SC_9	.\keymain.c	48;"	d	file:
+SC_ENTER	.\keymain.c	49;"	d	file:
+SC_EXTENDED_CODE	.\keymain.c	37;"	d	file:
+SPLIT	.\keymain.c	54;"	d	file:
+START_MAKE	.\keymain.c	51;"	d	file:
+STA_DELAY	.\keymain.c	34;"	d	file:
+STA_DISABLED	.\keymain.c	33;"	d	file:
+STA_NORMAL	.\keymain.c	24;"	d	file:
+STA_REPEAT	.\keymain.c	35;"	d	file:
+STA_RXCHAR	.\keymain.c	25;"	d	file:
+STA_WAIT_AUTOREP	.\keymain.c	31;"	d	file:
+STA_WAIT_ID	.\keymain.c	28;"	d	file:
+STA_WAIT_ID1	.\keymain.c	29;"	d	file:
+STA_WAIT_LEDS	.\keymain.c	30;"	d	file:
+STA_WAIT_RESET	.\keymain.c	32;"	d	file:
+STA_WAIT_SCAN_REPLY	.\keymain.c	27;"	d	file:
+STA_WAIT_SCAN_SET	.\keymain.c	26;"	d	file:
+TX_AFTER_STOP	.\keysta.c	/^	TX_PARITY, TX_STOP, TX_AFTER_STOP, TX_END } ;$/;"	e	enum:enum_state	file:
+TX_DATA1	.\keysta.c	/^	TX_DATA1, TX_DATA2, TX_DATA3, TX_DATA4,$/;"	e	enum:enum_state	file:
+TX_DATA2	.\keysta.c	/^	TX_DATA1, TX_DATA2, TX_DATA3, TX_DATA4,$/;"	e	enum:enum_state	file:
+TX_DATA3	.\keysta.c	/^	TX_DATA1, TX_DATA2, TX_DATA3, TX_DATA4,$/;"	e	enum:enum_state	file:
+TX_DATA4	.\keysta.c	/^	TX_DATA1, TX_DATA2, TX_DATA3, TX_DATA4,$/;"	e	enum:enum_state	file:
+TX_DATA5	.\keysta.c	/^	TX_DATA5, TX_DATA6, TX_DATA7,$/;"	e	enum:enum_state	file:
+TX_DATA6	.\keysta.c	/^	TX_DATA5, TX_DATA6, TX_DATA7,$/;"	e	enum:enum_state	file:
+TX_DATA7	.\keysta.c	/^	TX_DATA5, TX_DATA6, TX_DATA7,$/;"	e	enum:enum_state	file:
+TX_END	.\keysta.c	/^	TX_PARITY, TX_STOP, TX_AFTER_STOP, TX_END } ;$/;"	e	enum:enum_state	file:
+TX_PARITY	.\keysta.c	/^	TX_PARITY, TX_STOP, TX_AFTER_STOP, TX_END } ;$/;"	e	enum:enum_state	file:
+TX_START	.\keysta.c	/^	TX_START = RX_END+10, $/;"	e	enum:enum_state	file:
+TX_STOP	.\keysta.c	/^	TX_PARITY, TX_STOP, TX_AFTER_STOP, TX_END } ;$/;"	e	enum:enum_state	file:
+TYPEMATIC_DELAY	.\keymain.c	/^static uint8_t TYPEMATIC_DELAY=2;$/;"	v	file:
+TYPEMATIC_REPEAT	.\keymain.c	/^static long TYPEMATIC_REPEAT=5;$/;"	v	file:
+UBRR	.\print.h	13;"	d
+cbi	.\common_inc.h	16;"	d
+clear	.\keymain.c	/^void clear(void) {$/;"	f
+cli	.\common_inc.h	22;"	d
+clockHigh	.\keysta.c	/^static void clockHigh(void)$/;"	f	file:
+clockLow	.\keysta.c	/^static void clockLow(void)$/;"	f	file:
+dataHigh	.\keysta.c	/^static void dataHigh(void)$/;"	f	file:
+dataLow	.\keysta.c	/^static void dataLow(void)$/;"	f	file:
+enable_printf	.\print.h	/^enable_printf(void)$/;"	f
+enum_state	.\keysta.c	/^enum enum_state { IDLE_START = 0, IDLE_WAIT_REL, $/;"	g	file:
+front	.\keymain.c	/^static int rear=0, front=0;$/;"	v	file:
+get_keymap	.\keymain.c	/^uint8_t get_keymap(void) {$/;"	f
+inp	.\common_inc.h	9;"	d
+isEmpty	.\keymain.c	/^	uint8_t isEmpty(void) {$/;"	f
+kbd_flags	.\keysta.c	/^volatile unsigned char	kbd_flags;$/;"	v
+kbd_get_rx_char	.\keysta.c	/^kbd_get_rx_char(void)$/;"	f
+kbd_init	.\keysta.c	/^kbd_init(void)$/;"	f
+kbd_set_tx	.\keysta.c	/^kbd_set_tx(unsigned char txchar)$/;"	f
+kbd_state	.\keysta.c	/^volatile unsigned char kbd_state;$/;"	v
+keycode_set2	.\keymap.h	/^const uint8_t PROGMEM keycode_set2[NUM_KEY] =	{ 0x00,$/;"	v
+keycode_set2_extend	.\keymap.h	/^const uint8_t PROGMEM keycode_set2_extend[] =$/;"	v
+keycode_set2_make_break	.\keymap.h	/^const uint8_t PROGMEM keycode_set2_make_break[] =$/;"	v
+keycode_set2_makeonly	.\keymap.h	/^const uint8_t PROGMEM keycode_set2_makeonly[] = $/;"	v
+keycode_set2_proc_shift	.\keymap.h	/^const uint8_t PROGMEM keycode_set2_proc_shift[] = $/;"	v
+keycode_set2_special	.\keymap.h	/^const uint8_t PROGMEM keycode_set2_special[] = $/;"	v
+keymap_code	.\keymap.h	/^const uint8_t PROGMEM keymap_code[2][17][8] =  {$/;"	v
+keymap_init	.\keymain.c	/^void keymap_init(void) $/;"	f
+lastMAKE	.\keymain.c	/^static uint8_t lastMAKE[10];$/;"	v	file:
+lastMAKE_IDX	.\keymain.c	/^static uint8_t lastMAKE_IDX=0;$/;"	v	file:
+lastMAKE_SIZE	.\keymain.c	/^static uint8_t lastMAKE_SIZE=0;$/;"	v	file:
+lastMAKE_keyidx	.\keymain.c	/^static uint8_t lastMAKE_keyidx;$/;"	v	file:
+lastSent	.\keymain.c	/^unsigned char lastSent;$/;"	v
+lastState	.\keymain.c	/^unsigned char lastState;$/;"	v
+loopCnt	.\keymain.c	/^static long loopCnt;$/;"	v	file:
+m_state	.\keymain.c	/^unsigned char m_state;$/;"	v
+main	.\keymain.c	/^int main(void)$/;"	f
+mystdout	.\print.h	/^static FILE mystdout = FDEV_SETUP_STREAM(uart_putchar, NULL, _FDEV_SETUP_WRITE);$/;"	v
+outp	.\common_inc.h	5;"	d
+parity	.\keysta.c	/^static volatile unsigned char	parity;$/;"	v	file:
+pop	.\keymain.c	/^uint8_t pop(void) {$/;"	f
+printState	.\keymain.c	/^void printState(uint8_t state_number) {$/;"	f
+push	.\keymain.c	/^void push(uint8_t item) {$/;"	f
+putKey	.\keymain.c	/^void putKey(uint8_t keyidx, uint8_t isDown) {$/;"	f
+readClockPin	.\keysta.c	62;"	d	file:
+readDataPin	.\keysta.c	63;"	d	file:
+rear	.\keymain.c	/^static int rear=0, front=0;$/;"	v	file:
+rx_byte	.\keysta.c	/^static volatile unsigned char	rx_byte;$/;"	v	file:
+sbi	.\common_inc.h	19;"	d
+scankey	.\keymain.c	/^int scankey(void) {$/;"	f
+sei	.\common_inc.h	25;"	d
+timerAction	.\keysta.c	/^static void timerAction(void)$/;"	f	file:
+txScanCode	.\keymain.c	/^unsigned char txScanCode = 0; \/\/ scancode being urrently transmitted$/;"	v
+tx_byte	.\keysta.c	/^static volatile unsigned char	tx_byte;$/;"	v	file:
+tx_shift	.\keysta.c	/^static volatile unsigned char	tx_shift;$/;"	v	file:
+tx_state	.\keymain.c	/^void tx_state(unsigned char x, unsigned char newstate)$/;"	f
+uart_putchar	.\print.h	/^uart_putchar(char c, FILE *stream)$/;"	f
