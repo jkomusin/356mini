@@ -4,7 +4,7 @@ GUI tool for generating keymappings and firmware for the 356 Mini keyboard
 
 ### Credits
 
-This GUI tool was developed by inornate of OTD.kr and is rehosted here for use by the wider community
+This GUI tool was developed by Sunjun Kim and is rehosted here for use by the wider community
 
 356 Mini keyboard designed and produced by Eungsam of OTD.kr
 
