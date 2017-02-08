@@ -72,7 +72,7 @@ It is *highly* recommended that you backup any firmware existing on your 356 Min
 
 replacing `com3` with the appropriate interface and `arduino` with the appropriate ISP and `atmega32` with `atmega16` depending on the version of the 356 Mini. See the avrdude documentation for specifics on each flag.
 
-Atmel Stuido also provides utilities for backing up firmware which may be useful if the Windows avrdude toolchain isn't working for you, but be aware it can further complicate using avrdude.
+Atmel Studio also provides utilities for backing up firmware which may be useful if the Windows avrdude toolchain isn't working for you, but be aware it can further complicate using avrdude.
 
 
 ### Flashing the 356 Mini with keymain.hex
@@ -83,7 +83,7 @@ Finally, flash your Atmega with the generated keymain.hex file. Steps to do so v
 2. Plug in your ISP to the host computer
 3. Upload your generated keymain_NAME.hex file:
   * For avrdude, the following command should work (with the -p, -P, and -c flags changed as per the preceding backup instructions)
-  * Atmel Stuido also provides utilities for flashing firmware which may be useful if the Windows avrdude toolchain isn't working for you, but be aware it can further complicate using avrdude
+  * Atmel Studio also provides utilities for flashing firmware which may be useful if the Windows avrdude toolchain isn't working for you, but be aware it can further complicate using avrdude
 4. Congratulations, your 356 Mini has been remapped!
 
 
